@@ -1,0 +1,6 @@
+{
+    "name": "ivan.oconnell/sodapp",
+    "require": {
+        "mercadopago/dx-php": "^2.6"
+    }
+}

@@ -1,0 +1,29 @@
+div.box {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.9;
+  }
+
+  div.container {
+  
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+  .form_main {
+    width: 100%;
+  }
+  .form_main h4 {
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    text-transform: uppercase;
+  }
+
+  body {
+    margin: 0;
+  }
